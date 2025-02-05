@@ -10,7 +10,7 @@ Features
 
 Installation & Setup
 1. Clone the Repository
-git clone https://github.com/yourusername/task-manager-cli.git
+git clone https://github.com/PriyadarshanKumar/My_project_2025/task-manager-cli.git
 cd task-manager-cli
 2. Install Dependencies
 This application only requires Python’s built-in libraries (sqlite3, datetime), so no extra dependencies are needed.
